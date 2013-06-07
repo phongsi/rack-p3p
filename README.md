@@ -12,7 +12,7 @@ you're smart enough to figure it out :-)
 
 Add rack-p3p to your gemfile:
 
-    gem 'rack-p3p', :git => 'git://github.com/jmandala/rack-p3p.git'
+    gem 'rack-p3p', :git => 'git://github.com/phongsi/rack-p3p.git'
 
 Add it to your middleware stack in config/application.rb:
 
